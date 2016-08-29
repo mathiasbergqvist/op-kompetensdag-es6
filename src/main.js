@@ -1,4 +1,4 @@
-import movies from './data/movies';
+import movies from '../data/movies';
 
 for(let movie of movies){
   document.write(movie.title);

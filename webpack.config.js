@@ -4,7 +4,7 @@ var devServerPort = 9090;
 
 module.exports = {
   entry: {
-    app: path.resolve('./main.js')
+    app: path.resolve('./src/main.js')
   },
   output: {
     path: path.resolve('./build'),

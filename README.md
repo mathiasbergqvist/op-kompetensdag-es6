@@ -1,7 +1,7 @@
 # op-kompetensdag-es6
 
 ## About
-Template for ES6 project. Set up to start injecting ES6 code into `main.js`!
+Template for ES6 project. Set up to start injecting ES6 code into `src/main.js`!
 
 ## Installation
 - Run `npm install` to fetch dependencies.
