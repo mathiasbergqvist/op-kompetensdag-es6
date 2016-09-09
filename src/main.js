@@ -1,6 +1,11 @@
 import {starWarsMovies} from '../data/data';
 
-for(let movie of starWarsMovies){
-  document.write(movie.title);
+starWarsMovies.map(movie => {
+  document.write(movie.episode_id);
   document.write("<br>");
-}
+});
+
+starWarsMovies.map(() => {
+  document.write("hej");
+  document.write("<br>");});
+  
